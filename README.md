@@ -1,1 +1,1 @@
-# skills-introduction-to-gtech
+# skills-introduction-to-github
